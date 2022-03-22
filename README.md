@@ -8,6 +8,7 @@ All m-files, tutorial and testing data are available [here](https://drive.google
 
 Luminant® MR/CT localizer template of 61 patients is [here](https://drive.google.com/file/d/1ovqf5m0-_9x3Z7ETZm3lRu5JBsNo2UbC/view?usp=sharing). 
 <img src="https://github.com/EpiReC-ISARG/SEEG-contact-detection-and-skull-measurement/blob/e372f7cf2a40ce5e2c88f517fb17344a2466f1e0/luminant.png" width="300">
+
 The archive contains all processed and created files. The first use requires only MR, CT with electrodes, and preimplantation CT (optional for planning measurement):
 
 volume_data/
