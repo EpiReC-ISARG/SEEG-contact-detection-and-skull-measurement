@@ -5,6 +5,7 @@ Stereoelectroencephalography (SEEG) is an established invasive diagnostic techni
 Requirements: MATLAB (tested in 2020a), [SPM12 toolbox](https://www.fil.ion.ucl.ac.uk/spm/software/spm12/), GPU with CUDA (NVidia) recommended.
 
 All m-files, tutorial and testing data are available [here](https://drive.google.com/file/d/1hhC1KgZVDjc6lCF1aYOC-MZYcz3VYYvi/view?usp=sharing).
+
 Luminant® MR/CT localizer template of 61 patients is [here](https://drive.google.com/file/d/1ovqf5m0-_9x3Z7ETZm3lRu5JBsNo2UbC/view?usp=sharing).
 The archive contains all processed and created files. The first use requires only MR, CT with electrodes, and preimplantation CT (optional for planning measurement):
 volume_data/
