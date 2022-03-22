@@ -6,9 +6,6 @@ Requirements: MATLAB (tested in 2020a), [SPM12 toolbox](https://www.fil.ion.ucl.
 
 All m-files, tutorial and testing data are available [here](https://drive.google.com/file/d/1hhC1KgZVDjc6lCF1aYOC-MZYcz3VYYvi/view?usp=sharing).
 
- 
-<img src="https://github.com/EpiReC-ISARG/SEEG-contact-detection-and-skull-measurement/blob/e372f7cf2a40ce5e2c88f517fb17344a2466f1e0/luminant.png" width="300"> Luminant® MR/CT localizer template of 61 patients is [here](https://drive.google.com/file/d/1ovqf5m0-_9x3Z7ETZm3lRu5JBsNo2UbC/view?usp=sharing).
-
 The archive contains all processed and created files. The first use requires only MR, CT with electrodes, and preimplantation CT (optional for planning measurement):
 
 volume_data/
@@ -16,8 +13,8 @@ volume_data/
 - 603553_CT.nii (CT with electrodes)
 - 603553_CTNAV.nii (optional, CT with Luminant frame)
 
-
 The main function is MAIN_SEEG_v???.m, functions are in "mfiles_seeg_epirec" folder.
+<img src="https://github.com/EpiReC-ISARG/SEEG-contact-detection-and-skull-measurement/blob/e372f7cf2a40ce5e2c88f517fb17344a2466f1e0/luminant.png" width="300"> Luminant® MR/CT localizer template of 61 patients is [here](https://drive.google.com/file/d/1ovqf5m0-_9x3Z7ETZm3lRu5JBsNo2UbC/view?usp=sharing).
 
 # Tutorial
 Follow the tutorial [PDF](https://github.com/EpiReC-ISARG/SEEG-contact-detection-and-skull-measurement/blob/main/SEEG%20Tutorial%20v099.pdf) which contain example patient implantaion scheme. 
