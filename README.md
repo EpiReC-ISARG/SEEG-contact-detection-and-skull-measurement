@@ -13,6 +13,7 @@ volume_data/
 603553_CT.nii (CT with electrodes)
 603553_CTNAV.nii (optional, CT with Luminant frame)
 
+
 The main function is MAIN_SEEG_v???.m, functions are in "mfiles_seeg_epirec" folder.
 
 # Tutorial
