@@ -3,7 +3,7 @@
 
 
 # MATLAB pipeline
-Requirements: MATLAB (tested in 2020a), [SPM12 toolbox](https://www.fil.ion.ucl.ac.uk/spm/software/spm12/), GPU with CUDA (NVidia) recommended.
+Requirements: MATLAB (tested in 2020a), [SPM12 toolbox](https://www.fil.ion.ucl.ac.uk/spm/software/spm12/), GPU with CUDA (NVIDIA) recommended.
 
 All m-files, tutorial and testing data are available [here](https://drive.google.com/file/d/1hhC1KgZVDjc6lCF1aYOC-MZYcz3VYYvi/view?usp=sharing).
 
