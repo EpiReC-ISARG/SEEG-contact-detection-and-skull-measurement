@@ -14,6 +14,7 @@ volume_data/
 - 603553_CTNAV.nii (optional, CT with Luminant frame)
 
 The main function is MAIN_SEEG_v???.m, functions are in "mfiles_seeg_epirec" folder.
+
 <img src="https://github.com/EpiReC-ISARG/SEEG-contact-detection-and-skull-measurement/blob/e372f7cf2a40ce5e2c88f517fb17344a2466f1e0/luminant.png" width="300"> Luminant® MR/CT localizer template of 61 patients is [here](https://drive.google.com/file/d/1ovqf5m0-_9x3Z7ETZm3lRu5JBsNo2UbC/view?usp=sharing).
 
 # Tutorial
