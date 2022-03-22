@@ -22,4 +22,4 @@ The main function is MAIN_SEEG_v???.m, functions are in "mfiles_seeg_epirec" fol
 Follow the tutorial [PDF](https://github.com/EpiReC-ISARG/SEEG-contact-detection-and-skull-measurement/blob/main/SEEG%20Tutorial%20v099.pdf) which contain example patient implantaion scheme. 
 
 ## Publication
-Janca, R., Tomasek, M., Kalina, A., Marusic., P., Krsek P., Lesko, R. Automated Identification of Stereoelectroencephalography Contacts and Measurement of Factors Influencing Accuracy of Frame Stereotaxy (in peer-review)
+Janca, R., Tomasek, M., Kalina, A., Marusic., P., Krsek P., Lesko, R. Automated Identification of Stereoelectroencephalography Contacts and Measurement of Factors Influencing Accuracy of Frame Stereotaxy (unpublished) [pre-print](https://github.com/EpiReC-ISARG/SEEG-contact-detection-and-skull-measurement/blob/19c93ccf1f8a0db21c523bf92fa73452045e2c9a/Manuscript_SEEG_TBME_v17.pdf)
