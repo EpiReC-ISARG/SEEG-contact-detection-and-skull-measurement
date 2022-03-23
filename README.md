@@ -7,7 +7,7 @@ Requirements: MATLAB (tested in 2020a), [SPM12 toolbox](https://www.fil.ion.ucl.
 
 **SEEG tolbox m-files, tutorial and testing data are available [here](https://drive.google.com/file/d/1hhC1KgZVDjc6lCF1aYOC-MZYcz3VYYvi/view?usp=sharing)**.
 
-The archive contains all processed and created files. The first use requires only MR, CT with electrodes, and preimplantation CT (optional for planning measurement):
+The archive contains all processed and created files as well as final 3D Slicer scene (.mrb). The first use requires only MR, CT with electrodes, and preimplantation CT (optional for planning measurement):_
 
 volume_data/
 - 603553_T1KL.nii (MR)
