@@ -16,7 +16,7 @@ volume_data/
 
 The main function is MAIN_SEEG_v???.m, functions are in "mfiles_seeg_epirec" folder.
 
-<img src="https://github.com/EpiReC-ISARG/SEEG-contact-detection-and-skull-measurement/blob/e372f7cf2a40ce5e2c88f517fb17344a2466f1e0/luminant.png" width="300"> The template of Luminant® MR/CT localizer for Cosman–Robert–Wells (CRW® Precision Arc) of 61 patients is [here](https://drive.google.com/file/d/1ovqf5m0-_9x3Z7ETZm3lRu5JBsNo2UbC/view?usp=sharing). We recommend two-phase registration: 1) coregister pacient's CT (with Luminant frame) to averaged template *tpm_CTNAV_61_v2.nii*, 2) use fine-coregistration of CT to simple cage *model tpm_cage_v2.nii*.     
+<img src="https://github.com/EpiReC-ISARG/SEEG-contact-detection-and-skull-measurement/blob/e372f7cf2a40ce5e2c88f517fb17344a2466f1e0/luminant.png" width="300" ALIGN=LEFT> The template of Luminant® MR/CT localizer for Cosman–Robert–Wells (CRW® Precision Arc) of 61 patients is [here](https://drive.google.com/file/d/1ovqf5m0-_9x3Z7ETZm3lRu5JBsNo2UbC/view?usp=sharing). We recommend two-phase registration: 1) coregister pacient's CT (with Luminant frame) to averaged template *tpm_CTNAV_61_v2.nii*, 2) use fine-coregistration of CT to simple cage *model tpm_cage_v2.nii*.     
 
 # Tutorial
 Follow the tutorial [PDF](https://github.com/EpiReC-ISARG/SEEG-contact-detection-and-skull-measurement/blob/main/SEEG%20Tutorial%20v099.pdf) which contain example patient implantaion scheme. 
