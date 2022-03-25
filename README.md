@@ -7,14 +7,15 @@ Requirements: MATLAB (tested in 2020a), [SPM12 toolbox](https://www.fil.ion.ucl.
 
 **SEEG tolbox m-files, tutorial and testing data are available [here](https://drive.google.com/file/d/1hhC1KgZVDjc6lCF1aYOC-MZYcz3VYYvi/view?usp=sharing)**.
 
-The archive contains all processed and created files as well as final 3D Slicer scene (.mrb). The first use requires only MR, CT with electrodes, and preimplantation CT (optional for planning measurement):
+The archive contains the main function *MAIN_SEEG_v000.m*, called functions are in */mfiles_seeg_epirec* folder, and neuroimage data are in */raw_data*, where will be created processed data.
 
-volume_data/
+raw_data/
 - 603553_T1KL.nii (MR)
 - 603553_CT.nii (CT with electrodes)
 - 603553_CTNAV.nii (optional, CT with Luminant frame)
 
-The main function is *MAIN_SEEG_v000.m*, called functions are in */mfiles_seeg_epirec* folder, and neuroimage data are in */volume_data*. 
+The example of all processed and created files as well as fiducial list ann final 3D Slicer scene (.mrb) is [here](https://drive.google.com/file/d/1aca5clyLF_9lAnmd1ZbGqBoKR7cbthdO/view?usp=sharing)
+
 
 <img src="https://github.com/EpiReC-ISARG/SEEG-contact-detection-and-skull-measurement/blob/e372f7cf2a40ce5e2c88f517fb17344a2466f1e0/luminant.png" width="300" ALIGN=LEFT> The template of Luminant® MR/CT localizer for Cosman–Robert–Wells (CRW® Precision Arc) of 61 patients is [here](https://drive.google.com/file/d/1ovqf5m0-_9x3Z7ETZm3lRu5JBsNo2UbC/view?usp=sharing). We recommend two-phase registration: 1) coregister pacient's CT (with Luminant frame) to averaged template *tpm_CTNAV_61_v2.nii*, 2) use fine-coregistration of CT to simple cage *model tpm_cage_v2.nii*.     
 
