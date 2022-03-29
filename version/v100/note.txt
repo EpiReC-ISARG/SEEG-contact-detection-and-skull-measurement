@@ -1,0 +1,2 @@
+Change to v099
+- Added manual confirmation of ambiguous first contact (tip) detection
