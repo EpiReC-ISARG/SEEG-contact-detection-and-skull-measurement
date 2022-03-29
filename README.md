@@ -6,7 +6,9 @@
 Requirements: MATLAB (tested in 2020a), [SPM12 toolbox](https://www.fil.ion.ucl.ac.uk/spm/software/spm12/), [Curve Fitting Toolbox](https://www.mathworks.com/products/curvefitting.html), GPU with CUDA (NVIDIA) recommended. Use [3D Slicer](https://www.slicer.org/) viewer for visualization and initial labeling.
 
 **SEEG tolbox m-files, tutorial, testing data are available [here](https://drive.google.com/drive/folders/1zLalBTPnkHysK6c0yCw7xXesrqDPi6JS?usp=sharing)**.
-The latest version in **1.00 (v100)**. 
+
+The latest version in **1.00 (v100)**.
+
 Actual and older versions of m-files and tutorial are in a similarly named folder.
 The archive contains the main function *MAIN_SEEG_v100.m*, called functions are in */mfiles_seeg_epirec* folder. The neuroimage [raw-data](https://drive.google.com/file/d/1osv64WqdsRsuMKwGNLlcFCipXl41U0s4/view?usp=sharing) download to folder */raw_data*, where will be created processed data.
 
