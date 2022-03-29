@@ -7,7 +7,7 @@ Requirements: MATLAB (tested in 2020a), [SPM12 toolbox](https://www.fil.ion.ucl.
 
 **SEEG tolbox m-files, tutorial, testing data are available [here](https://drive.google.com/drive/folders/1zLalBTPnkHysK6c0yCw7xXesrqDPi6JS?usp=sharing)**.
 
-The latest version is 1.00 (v100), m-files are in a similarly named folder.
+The latest version is 1.00 (v100), m-files and tutorial are in a similarly named folder.
 The archive contains the main function *MAIN_SEEG_v100.m*, called functions are in */mfiles_seeg_epirec* folder. The neuroimage [raw-data](https://drive.google.com/file/d/1osv64WqdsRsuMKwGNLlcFCipXl41U0s4/view?usp=sharing) download to folder */raw_data*, where will be created processed data.
 
 raw_data/
@@ -21,8 +21,6 @@ The example of all processed and created files as well as fiducial list and fina
 <img src="https://github.com/EpiReC-ISARG/SEEG-contact-detection-and-skull-measurement/blob/e372f7cf2a40ce5e2c88f517fb17344a2466f1e0/luminant.png" width="300" ALIGN=LEFT> The template of Luminant® MR/CT localizer for Cosman–Robert–Wells (CRW® Precision Arc) of 61 patients is [here](https://drive.google.com/file/d/1ovqf5m0-_9x3Z7ETZm3lRu5JBsNo2UbC/view?usp=sharing). We recommend two-phase registration: 1) coregister pacient's CT (with Luminant frame) to averaged template *tpm_CTNAV_61_v2.nii*, 2) use fine-coregistration of CT to simple cage *model tpm_cage_v2.nii*.     
 
 <br><br>
-# Tutorial
-Follow the tutorial [PDF](https://github.com/EpiReC-ISARG/SEEG-contact-detection-and-skull-measurement/blob/main/SEEG%20Tutorial%20v099.pdf) which contain example patient implantaion scheme. 
 
 ## Publication
 Janca, R., Tomasek, M., Kalina, A., Marusic., P., Krsek P., Lesko, R. Automated Identification of Stereoelectroencephalography Contacts and Measurement of Factors Influencing Accuracy of Frame Stereotaxy (unpublished) [pre-print](https://github.com/EpiReC-ISARG/SEEG-contact-detection-and-skull-measurement/blob/19c93ccf1f8a0db21c523bf92fa73452045e2c9a/Manuscript_SEEG_TBME_v17.pdf)
