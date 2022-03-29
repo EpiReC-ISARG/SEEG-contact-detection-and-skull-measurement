@@ -10,7 +10,7 @@ Requirements: MATLAB (tested in 2020a), [SPM12 toolbox](https://www.fil.ion.ucl.
 The latest version in **1.00 (v100)**.
 
 Actual and older versions of m-files and tutorial are in a similarly named folder.
-The archive contains the main function *MAIN_SEEG_v100.m*, called functions are in */mfiles_seeg_epirec* folder. The neuroimage [raw-data](https://drive.google.com/file/d/1osv64WqdsRsuMKwGNLlcFCipXl41U0s4/view?usp=sharing) download to folder */raw_data*, where will be created processed data.
+The archive contains the main function *MAIN_SEEG_v100.m*, called functions are in */mfiles_seeg_epirec* folder. Please, download the neuroimage [raw-data](https://drive.google.com/file/d/1osv64WqdsRsuMKwGNLlcFCipXl41U0s4/view?usp=sharing) to folder */raw_data*, where will be created processed data.
 
 raw_data/
 - 603553_T1KL.nii (MR)
