@@ -25,4 +25,4 @@ The example of all processed and created files as well as fiducial list and fina
 <br><br>
 
 ## Publication
-Janca, R., Tomasek, M., Kalina, A., Marusic., P., Krsek P., Lesko, R. *Automated Identification of Stereoelectroencephalography Contacts and Measurement of Factors Influencing Accuracy of Frame Stereotaxy* (unpublished) [pre-print](https://github.com/EpiReC-ISARG/SEEG-contact-detection-and-skull-measurement/blob/09439f9d30a962aa515850a84a5f3e7b92486b74/Manuscript_SEEG_v17.pdf)
+Janca, R., Tomasek, M., Kalina, A., Marusic., P., Krsek P., Lesko, R. *Automated Identification of Stereoelectroencephalography Contacts and Measurement of Factors Influencing Accuracy of Frame Stereotaxy* (unpublished) [pre-print](https://github.com/EpiReC-ISARG/SEEG-contact-detection-and-skull-measurement/blob/main/Manuscript_SEEG_JBHI_v21.pdf)
